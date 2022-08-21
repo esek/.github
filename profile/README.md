@@ -6,7 +6,8 @@
 
 ## Showcase
 
-- 👨‍⚖️ [EVote](https://github.com/esek/evote) - Your digital voting system
+- 👨‍⚖️ [evote](https://github.com/esek/evote) - Your digital voting system
+- :chipmunk: [ekorre](https://github.com/esek/ekorre) - E-Guild backend server
 
 ## Read more
 
